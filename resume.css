@@ -1,0 +1,89 @@
+body {
+  background-color: #f2d7d6;
+  margin: 10%;
+  margin-top: auto;
+  text-align: center;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+
+div {
+  background-color: lavender;
+  text-align: center;
+}
+.Lang {
+    position:absolute;
+    top:500px;
+    left:200px;
+    width:400px;
+    height:220px;
+  }
+
+.Edu {
+    position:absolute;
+    top:750px;
+    left:700px;
+    width:400px;
+    height:200px;
+}
+.interests {
+    position:absolute;
+    top:500px;
+    left:700px;
+    width:400px;
+    height:220px;
+  }
+  .Skills {
+      position:absolute;
+      top:280px;
+      left:700px;
+      width:400px;
+      height:200px;
+    }
+    .Net {
+        position:absolute;
+        top:750px;
+        left:200px;
+        width:400px;
+        height:200px;
+      }
+    .Traits {
+        position:absolute;
+        top:1000px;
+        left:450px;
+        width:400px;
+        height:200px;
+      }
+      .Security {
+          position:absolute;
+          top:280px;
+          left:200px;
+          width:400px;
+          height:200px;
+        }
+
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #f2d7d6;
+}
+header {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #f2d7d6;
+  text-align: left;
+}
+
+p.normal {
+  font-style: normal;
+}
+
+p.italic {
+  font-style: italic;
+}
+
+p.oblique {
+  font-style: oblique;
+}
